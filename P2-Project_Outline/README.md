@@ -25,16 +25,13 @@ This project was conceived with a desire to easily discover and remember drinks 
 
 ## Technologies
 
-- JavaScript
-- React
 - Java
+- Spring Boot
 - Spring 
 - MySQL
 
 ## What I’ll Have to Learn
 
-- React
-- Connecting JS front end to Java back end
 - Spring Authentication/third-party authentication
 - TDD in Spring
 - Embedding maps/connecting to APIs
