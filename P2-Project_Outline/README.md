@@ -5,6 +5,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 
+
+
 ## Overview
 
 Our project is a product review site dedicated to non-alcoholic seltzers and sparkling waters. The heart of this web app is a broad database of products. Users will be able to find and create product reviews, rate products, and log in to curate a personal list of favorites. They will also be able to find places to purchase products both online and at brick-and-mortar retailers.
@@ -16,6 +18,7 @@ This project was conceived with a desire to easily discover and remember drinks 
 Release 1 (MVC)
 - Landing Page: 
 - Search: Users will be able to search through a database of products and sort/filter the results
+- Product Page: 
 - User Sign Up: Users can create a new account for themselves within the web app or using third-party authentication
 - User Login: Users can log in to their account and view/edit their personal profile
 
@@ -32,9 +35,9 @@ Release 3
 ## Technologies
 
 - HTML/CSS: Building the web pages and styling the interface
-- Bootstrap: Framework to automate CSS work
+- Bootstrap: Library to automate CSS work
 - Java: Programming language to handle front and back end of stack
-- Thymeleaf: Front end framework for Java views
+- Thymeleaf: Front end framework for building Java views
 - Spring Boot: Micro framework for configuring Spring applications
 - JUnit: Unit testing suite for Java
 - MySQL: Database 
