@@ -18,11 +18,13 @@ Release 1 (MVC)
 - Search: Users will be able to search through a database of products and sort/filter the results
 - User Sign Up: Users can create a new account for themselves within the web app or using third-party authentication
 - User Login: Users can log in to their account and view/edit their personal profile
+
 Release 2
 - Rate: Users will be able to rate products
 - Favorite: Users will be able to save products to a list of personal favorites in their profile
 - Review: Users will be able to write/edit/delete their own review of a product
 - Comment: Users will be able to leave comments on product reviews
+
 Release 3
 - Find Retailers: Users will be able to use an embedded map to find nearby retailers that carry particular products
 - Affiliate Links: Users will be able to follow links to third-party sites where they can purchase products
