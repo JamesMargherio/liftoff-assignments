@@ -12,8 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Group project tracker](https://trello.com/b/zPGLhF0O/seltzer-notes-project-tracker)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Group Github repository](https://github.com/LaunchCodeLiftoffProjects/fizzybubbly)
